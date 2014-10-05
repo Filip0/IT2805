@@ -7,32 +7,56 @@
 </head>
 <body>
 	<div class="row">
-	<form>
-		Name: 		<input type="text" name="name">
-		Email: 		<input type="email" name="email">
-		Address:	<input type="text" name="address">
-		Phone:		<input type="tel" name="phone">
-		Year of study:
-			<select>
-				<option>1st Year-Freshman</option>
-				<option>2nd Year-Sophmore</option>
-				<option>3rd Year-Junior</option>
-				<option>4th Year-Senior</option>
-			</select>
-		Expected start date:
-					<input type="date" name="start_date">
-		Classes interested in:
-			<select multiple>
-				<option>ITX1001: HTML Basics</option>
-				<option>ITX1002: URLs and Site Structures</option>
-				<option>ITX2001: Introduction to Cascading Style Shets(CSS)</option>
-				<option>ABC1001: Working with Multimedia on the Web</option>
-				<option>JSX1000: Introduction to JavaScript</option>
-				<option>JSX1050: JavaScript: DOM</option>
-				<option>XML1000: XML: Formatting Namespace Trees</option>
-			</select>
-		Special requests:
-			<textarea></textarea>
+	<form action="http://www.idi.ntnu.no/~michailg/IT2805/form.php" method="post">
+		<div class="form-group">	
+			<label for="name">Name<em>*</em></label> 		
+			<input type="text" class="form-control" id="name" name="name" required>
+		</div>
+		<div class="form-group">	
+		<label for="email">Email<em>*</em></label>
+		<input type="email" class="form-control" id="email" name="email" required>
+		</div>
+		<div class="form-group">	
+		<label for="address">Address</label>
+			<input type="text" class="form-control" id="address" name="address">
+		</div>
+		<div class="form-group">	
+		<label for="phone">Phone</label>
+			<input type="tel" class="form-control" id="phone" name="phone">
+		</div>
+		<div class="form-group">	
+		<label for="year">Year of study<em>*</em></label>
+		<select id="year" name="year" class="form-control" required>
+			<option value="1">1st Year-Freshman</option>
+			<option value="2">2nd Year-Sophmore</option>
+			<option value="3">3rd Year-Junior</option>
+			<option value="4">4th Year-Senior</option>
+		</select>
+		</div>
+		<div class="form-group">	
+		<label for="startDate">Expected start date<em>*</em></label>
+		<input type="date" class="form-control" id="startDate" name="startDate" required>
+		</div>
+		<div class="form-group">	
+			<label for="classes">Classes interested in<em>*</em></label>
+		<select id="classes" class="form-control multiselect" name="classes" multiple required>
+			<option value="ITX1001">ITX1001: HTML Basics</option>
+			<option value="ITX1002">ITX1002: URLs and Site Structures</option>
+			<option value="ITX2001">ITX2001: Introduction to Cascading Style Shets(CSS)</option>
+			<option value="ABC1001">ABC1001: Working with Multimedia on the Web</option>
+			<option value="JSX1000">JSX1000: Introduction to JavaScript</option>
+			<option value="JSX1050">JSX1050: JavaScript: DOM</option>
+			<option value="XML1000">XML1000: XML: Formatting Namespace Trees</option>
+		</select>
+		</div>
+		<div class="form-group">	
+		<label for="comments">Special requests</label>
+		<textarea name="comments" id="comments" class="form-control"></textarea>
+		</div>
+		<div class="form-group">
+		<label>&nbsp</label>
+		<input class="form-control" type="submit" value="Submit">
+		</div>
 
 	</form>
 	</div>
