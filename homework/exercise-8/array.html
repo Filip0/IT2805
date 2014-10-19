@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Arrays and built-in functions</title>
+	<script type="text/javascript">
+
+		function rndString () {
+			var array = [
+				"C++",
+				"C",
+				"C#",
+				"Java",
+				"Python",
+				"Ruby",
+				"Fortran",
+				"Scala",
+				"R",
+				"Go"
+			];
+			var element = document.getElementById('output');
+			element.innerHTML = array[Math.floor(Math.random()*array.length)];
+		}
+		document.addEventListener("DOMContentLoaded",rndString,false)
+
+	</script>
+</head>
+<body>
+	<output id="output">Output</output>
+</body>
+</html>
