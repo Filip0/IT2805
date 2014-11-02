@@ -1,0 +1,879 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getById"
+			],
+			[
+				"ch",
+				"change_state"
+			],
+			[
+				"c",
+				"change_state"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"tab",
+				"table_string"
+			],
+			[
+				"t",
+				"table_string"
+			],
+			[
+				"tabl",
+				"table_string"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"in",
+				"intervalID"
+			],
+			[
+				"st",
+				"startTime"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"red",
+				"red	report.tex"
+			],
+			[
+				"or",
+				"organization_chart_board_path"
+			],
+			[
+				"ori",
+				"organization_chart"
+			],
+			[
+				"user",
+				"userArray"
+			],
+			[
+				"se",
+				"select_user"
+			],
+			[
+				"recr",
+				"recruited_position"
+			],
+			[
+				"rec",
+				"recruited_position"
+			],
+			[
+				"app",
+				"applicant"
+			],
+			[
+				"applica",
+				"application"
+			],
+			[
+				"tra",
+				"travel_body"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"fe",
+				"festival_id"
+			],
+			[
+				"nam",
+				"name_en"
+			],
+			[
+				"user_id",
+				"user_id_link"
+			],
+			[
+				"collec",
+				"collection"
+			],
+			[
+				"modal",
+				"modal-dialog"
+			],
+			[
+				"gue",
+				"guesses"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"core",
+				"correctPositionAndColor"
+			],
+			[
+				"so",
+				"solution"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"corect",
+				"correctPositionAndColor"
+			],
+			[
+				"corec",
+				"correctPositionAndColor"
+			],
+			[
+				"cor",
+				"correctPositionAndColor"
+			],
+			[
+				"correct",
+				"correctColor"
+			],
+			[
+				"colo",
+				"color0"
+			],
+			[
+				"pre",
+				"previousGuesses"
+			],
+			[
+				"a",
+				"append	.append"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"end",
+				"end{center}	Assignment 3.tex"
+			],
+			[
+				"incl",
+				"includegraphics{name}	latex-document"
+			],
+			[
+				"q",
+				"quad	tex"
+			],
+			[
+				"center",
+				"raggedcenter	tex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "homework/exercise-9/task1/table-sort.js",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "homework/exercise-9/task2/todo.html",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "homework/exercise-9/task2/todo.js",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "homework/exercise-9/index.html",
+			"settings":
+			{
+				"buffer_size": 310,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: C"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/filip/git/IT2805",
+		"/home/filip/git/IT2805/css",
+		"/home/filip/git/IT2805/homework",
+		"/home/filip/git/IT2805/homework/exercise-5",
+		"/home/filip/git/IT2805/homework/exercise-6",
+		"/home/filip/git/IT2805/homework/exercise-6/exercise1",
+		"/home/filip/git/IT2805/homework/exercise-6/exercise2",
+		"/home/filip/git/IT2805/homework/exercise-8",
+		"/home/filip/git/IT2805/homework/exercise-9",
+		"/home/filip/git/IT2805/homework/exercise-9/task1",
+		"/home/filip/git/IT2805/homework/exercise-9/task2"
+	],
+	"file_history":
+	[
+		"/home/filip/git/IT2805/homework/exercise-9/task1/table-sort.html",
+		"/home/filip/git/IT2805/homework/exercise-8/console.html",
+		"/home/filip/git/IT2805/homework/exercise-8/stopwatch.js",
+		"/home/filip/git/IT2805/homework/exercise-8/array.html",
+		"/home/filip/git/IT2805/homework/exercise-8/index.html",
+		"/home/filip/git/IT2805/homework/exercise-9/table-sort.html",
+		"/home/filip/git/IT2805/homework/exercise-8/stopwatch.html",
+		"/home/filip/git/IT2805/homework/exercise-8/console.html.gz",
+		"/home/filip/git/IT2805/homework/exercise-6/index.html",
+		"/home/filip/git/IT2805/homework/exercise-6/exercise2/style.css",
+		"/home/filip/git/IT2805/homework/exercise-6/exercise2/index.html",
+		"/home/filip/git/IT2805/homework/exercise-4/css/style.css",
+		"/home/filip/git/IT2805/homework/exercise-4/index.html",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/accounts.js",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/applicants.js",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/frontend_articles.js",
+		"/home/filip/git/internal.isfit.org/Gemfile",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/all.js",
+		"/home/filip/git/internal.isfit.org/app/views/layouts/application.html.erb",
+		"/home/filip/git/internal.isfit.org/app/assets/stylesheets/application.css.scss",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/bootstrap.min.js",
+		"/home/filip/git/internal.isfit.org/app/views/applicants/index.html.erb",
+		"/home/filip/git/internal.isfit.org/app/models/user.rb",
+		"/home/filip/git/internal.isfit.org/db/migrate/20140915162820_drop_event_rsvps.rb",
+		"/home/filip/git/internal.isfit.org/db/migrate/20140915165852_drop_user_quests.rb",
+		"/home/filip/git/internal.isfit.org/db/migrate/20140915165825_drop_quests.rb",
+		"/home/filip/git/internal.isfit.org/config/routes.rb",
+		"/home/filip/git/internal.isfit.org/db/schema.rb",
+		"/home/filip/git/internal.isfit.org/config/secrets.yml.example",
+		"/home/filip/git/internal.isfit.org/config/ci/before_travis.sh",
+		"/home/filip/git/internal.isfit.org/spec/features/accounts_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/features/users_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/views/shared/_user_quest_widget.html.erb",
+		"/home/filip/git/internal.isfit.org/db/migrate/20140915162704_drop_events.rb",
+		"/home/filip/git/internal.isfit.org/app/models/event_rsvp.rb",
+		"/home/filip/git/internal.isfit.org/app/models/event.rb",
+		"/home/filip/git/internal.isfit.org/db/migrate/20140915162310_drop_events.rb",
+		"/home/filip/git/internal.isfit.org/config/database.yml",
+		"/home/filip/git/internal.isfit.org/app/models/applicant.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/applicants_controller.rb",
+		"/home/filip/git/internal.isfit.org/app/views/applicants/show.html.erb",
+		"/home/filip/git/internal.isfit.org/config/deploy.rb",
+		"/home/filip/git/internal.isfit.org/Capfile",
+		"/home/filip/git/internal.isfit.org/config/deploy/production.rb",
+		"/home/filip/git/internal.isfit.org/config/deploy/staging.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/articles_controller.rb",
+		"/home/filip/git/internal.isfit.org/app/views/accounts/travel.html.erb",
+		"/home/filip/git/internal.isfit.org/config/environments/production.rb",
+		"/home/filip/git/internal.isfit.org/config/initializers/secret_token.rb",
+		"/home/filip/git/internal.isfit.org/app/views/applicants/_form.html.erb",
+		"/home/filip/git/internal.isfit.org/app/views/presentations/_form.html.erb",
+		"/home/filip/git/internal.isfit.org/db/migrate/20140903154405_add_recruited_position_to_applicant.rb",
+		"/home/filip/git/internal.isfit.org/app/views/accounts/voucher.html.erb",
+		"/home/filip/git/internal.isfit.org/app/views/accounts/invoice.html.erb",
+		"/home/filip/git/internal.isfit.org/app/views/accounts/print_travel.html.erb",
+		"/home/filip/git/internal.isfit.org/app/views/accounts/print_voucher.html.erb",
+		"/home/filip/git/internal.isfit.org/app/views/accounts/print_invoice.html.erb",
+		"/home/filip/git/internal.isfit.org/app/controllers/accounts_controller.rb",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/kvitters.js",
+		"/home/filip/git/internal.isfit.org/app/mailers/accounts_mailer.rb",
+		"/home/filip/git/internal.isfit.org/app/views/room_bookings/new.html.erb",
+		"/home/filip/git/internal.isfit.org/spec/integration_js_helper.rb",
+		"/home/filip/git/internal.isfit.org/spec/rails_helper.rb",
+		"/home/filip/git/internal.isfit.org/config/environments/development.rb",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/application.js",
+		"/home/filip/git/internal.isfit.org/.bundle/config",
+		"/home/filip/git/internal.isfit.org/spec/controllers/isfit_pages_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/isfit_tabs/edit.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/isfit_tabs/index.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/isfit_tabs/new.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/isfit_tabs/show.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/factories/factories.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/filipegge.sublime-project",
+		"/home/filip/git/internal.isfit.org/app/models/ability.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/kvitters_controller.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/isfit_pages_controller.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/isfit_tabs_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/requests/isfit_tabs_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/isfit_tabs_controller.rb",
+		"/home/filip/git/internal.isfit.org/.travis.yml",
+		"/home/filip/git/internal.isfit.org/spec/spec_helper.rb",
+		"/home/filip/git/internal.isfit.org/Guardfile",
+		"/home/filip/git/internal.isfit.org/app/controllers/users_controller.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/users_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/wiki_categories_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/wiki_pages_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/models/room_booking_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/models/user_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/models/user_quest.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/participant_quotes/edit.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/participant_quotes/index.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/participant_quotes/new.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/views/participant_quotes/show.html.erb_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/assets/javascripts/layout_job.js.coffee",
+		"/home/filip/git/internal.isfit.org/spec/requests/users_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/requests/accounts_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/frontend_articles_controller.rb",
+		"/home/filip/git/internal.isfit.org/spec/support/controller_macros.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/wiki_categories_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/wiki_pages_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/controllers/rooms_controller.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/rooms_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/articles_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/config/application.rb",
+		"/home/filip/git/internal.isfit.org/app/views/articles/_form.html.erb",
+		"/home/filip/git/internal.isfit.org/spec/routing/spp_pages_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/presentations_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/participant_quotes_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/isfit_pages_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/articles_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/applicants_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/accounts_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/mailers/accounts_mailer_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/routing/static_pages_routing_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/accounts_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/app/models/dialogue_participant.rb",
+		"/home/filip/git/internal.isfit.org/app/helpers/internal_tabs_helper.rb",
+		"/home/filip/git/internal.isfit.org/.rspec",
+		"/home/filip/git/internal.isfit.org/app/controllers/layout_jobs_controller.rb",
+		"/home/filip/git/internal.isfit.org/app/views/layout_jobs/_form.html.erb",
+		"/home/filip/git/internal.isfit.org/config/environment.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/contact_logs_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/drivers_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/gallery_albums_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/internal_tabs_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/layout_jobs_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/oauth_controller_spec.rb",
+		"/home/filip/git/internal.isfit.org/spec/controllers/organization_chart_controller_spec.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"/home/filip/git/internal.isfit.org/app/views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"required",
+			"label",
+			"dt>",
+			"          <dt>",
+			"dd",
+			"\\iff",
+			"|c|c|c|",
+			"|m{0.2cm}|m{0.2cm}|m{0.2cm}|",
+			"|m{0.15cm}|m{0.15cm}|m{0.15cm}|",
+			"|m{0.3cm}|m{0.3cm}|m{0.3cm}|",
+			"|m{1cm}|m{1cm}|m{1cm}|",
+			"|c|c|c|",
+			"\\red",
+			"turbolinks",
+			"ails.configuration.secret_token",
+			"Rails.config",
+			"bloodhound",
+			"search-query",
+			");\n",
+			"getUsersJSON",
+			"file",
+			"dropzone: $(\"form.file_upload\"),",
+			"tablesorter",
+			"subscribe_to",
+			"private_pub",
+			"tablesorter({ sortList: [[1,0]] });",
+			"Quests",
+			"user_quest",
+			"quest",
+			"Quest",
+			"event",
+			"event_rsvp",
+			"protec",
+			"params.req",
+			"attr_accessible",
+			"secret.yml",
+			"rmagick",
+			"pry",
+			"errors.any",
+			"accoun",
+			"tabs",
+			"kvitter",
+			"invoice_mail",
+			"search-query",
+			"data-targer",
+			"getUsersJSON",
+			"private_pub",
+			"table-striped",
+			"tablesorter",
+			"sortable",
+			"create_hashtags",
+			"invoice_mail",
+			"visible_applicants",
+			"appli",
+			"Capybara",
+			"binding.pry",
+			"pry",
+			"datepicker",
+			"ui-datepicker-calendar",
+			"datetime",
+			"\n});",
+			"UserQuest",
+			"params.requi",
+			"params_requi",
+			"resource_params",
+			"resource_parms",
+			"mocha",
+			"require \"spec_helper\"",
+			"require 'spec_helper'",
+			"spor",
+			"config.include",
+			"login_user",
+			"vcf",
+			"params",
+			"paper",
+			"sass",
+			"datepicker",
+			"bootstrap",
+			"AccountsMailer",
+			"ActionMailer",
+			"AccountsMailer",
+			"collection",
+			"CURRENT_FESTIVAL_YEAR",
+			"festival",
+			"delete_if",
+			"nested_links",
+			"tab",
+			"boots",
+			"publishings",
+			"layout_jobs/statuses",
+			"formatting",
+			"root",
+			"match",
+			"nokogiri",
+			"active",
+			"tabs",
+			"navbar-search",
+			"dropdown",
+			"class:",
+			":class => ",
+			":class => \"nav\"",
+			":class",
+			"class=\"nav",
+			"nav",
+			"div class=\"nav\"",
+			"tabs",
+			"nav-",
+			"brand",
+			"offset1",
+			"offset2",
+			"offset",
+			"span10",
+			"span9",
+			"span8",
+			"span7",
+			"span6",
+			"span5",
+			"span4",
+			"span3",
+			"span2",
+			"span1",
+			"span\\d",
+			"span[\\D]",
+			" span",
+			"span",
+			"row-fluid",
+			"bootstr",
+			"formatting"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li>",
+			"          <dd>",
+			"dt",
+			"\\Leftrightarrow",
+			"|m{0.25cm}|m{0.25cm}|m{0.25cm}|",
+			"|m{0.2cm}|m{0.2cm}|m{0.2cm}|",
+			"|m{0.15cm}|m{0.15cm}|m{0.15cm}|",
+			"|m{0.3cm}|m{0.3cm}|m{0.3cm}|",
+			"|m{1cm}|m{1cm}|m{1cm}|",
+			"\\wombat",
+			"require 'rails_helper'",
+			"col-md-offset-1",
+			"col-md-offset-2",
+			"col-md-10",
+			"col-md-9",
+			"col-md-8",
+			"col-md-7",
+			"col-md-6",
+			"col-md-5",
+			"col-md-4",
+			"col-md-3",
+			"col-md-2",
+			"col-md-1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "homework/exercise-9/task1/table-sort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "homework/exercise-9/task2/todo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "homework/exercise-9/task2/todo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "homework/exercise-9/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "it2805.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/git/isfit.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

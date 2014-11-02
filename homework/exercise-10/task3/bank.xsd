@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="bank">
+    <xs:complexType name="accounts">
+      <xs:sequence>
+        <xs:complexType name="saving_accounts">
+          <xs:sequence>
+            <xs:element name="savings_account" type="savings_account" minOccurs="0" maxOccurs="unbounded" />
+            <xs:element name="checking_account" type="checking_account" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="customers">
+      <xs:sequence>
+        <xs:element name="customer" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:element name="name"/>
+            <xs:element name="address"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="customer_accounts">
+      <xs:sequence>
+        <xs:element name="customer_account" minOccurs="0" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+
+  <xs:complexType name="account">
+    <xs:sequence>
+      <xs:element name="balance">
+        <xs:simpleType>
+          <xs:restriction base="xs:decimal">
+            <xs:minExclusive value="-5000"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="savings_account">
+    <xs:complexContent>
+      <xs:extension base="account">
+        <xs:attribute name="id" type="xs:string"/>
+        <xs:attribute name="interest" type="xs:decimal"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <xs:complexType name="checking_account">
+    <xs:complexContent>
+      <xs:extension base="account">
+        <xs:attribute name="id" type="xs:string"/>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+</xs:schema>
